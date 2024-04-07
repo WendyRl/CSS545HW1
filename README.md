@@ -2,15 +2,10 @@
 
 A new Flutter project.
 
-## Getting Started
-
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+Create your initial "Hello World" app for your chosen platform
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1.  Include at least two pages (have different text in the two pages)
+   
+2.  Include a way to navigate back and forth between the two pages
